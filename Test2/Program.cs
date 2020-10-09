@@ -11,6 +11,8 @@ namespace Github
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("hehehehe");
+            Console.WriteLine("hoho");
         }
     }
 }
